@@ -1,5 +1,5 @@
 # Cryptocoin
-Venho por aqui sugerir ao Partido Pirata uma implementação de uma cryptocoin/blockchain criada pela comunidade para a comunidade,a linguagem usada será C ou Python e conto com a ajuda dos membros do GTI.
+Venho por aqui sugerir ao Partido Pirata uma implementação de uma cryptocoin/blockchain criada pela comunidade para a comunidade,a linguagem usada ainda será escolhida e conto com a ajuda dos membros do GTI.
 
 # Objetivos:
 * Criar/Implementar uma moeda de fácil  uso para a comunidade do Partido Pirata.
